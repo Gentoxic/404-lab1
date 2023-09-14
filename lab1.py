@@ -1,6 +1,6 @@
 import requests
 
-resp = requests.get("http://www.google.com")
+resp = requests.get("https://raw.githubusercontent.com/Gentoxic/404-lab1/master/lab1.py")
 
 
 print(resp.text)
